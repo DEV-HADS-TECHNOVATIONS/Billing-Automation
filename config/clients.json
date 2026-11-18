@@ -1,0 +1,37 @@
+[
+    {
+        "name": "RODEO DIGITAL",
+        "address": "2st floor, Ananta Vriddhi building, Trichy road, Coimbatore, Tamil Nadu 641005",
+        "contact_person": "Karthikeyan",
+        "mobile": "+91-98430-63374",
+        "gstin": "29AAJCR5472K1ZP"
+    },
+    {
+        "name": "ASTRAVUE TECHNOLOGIES PVT LTD",
+        "address": "1st floor, TN-RISE building, SIDCO industrial estate, Guindy, Chennai",
+        "contact_person": "Suriyamoorthy",
+        "mobile": "+91-98412-03747",
+        "gstin": "33AATCA0942K1ZI"
+    },
+    {
+        "name": "HADS TECHNOVATIONS LLP",
+        "address": "111, Rajiv Gandhi Road, OMR, Chennai, Tamil Nadu 600096",
+        "contact_person": "Dinesh",
+        "mobile": "8122015654",
+        "gstin": "33AASFH0108G1ZP"
+    },
+    {
+        "name": "NISSI Engineering Solution Pvt. Ltd.",
+        "address": "No. 14, Shanthi Street, Cholapuram (Opp to Stedford Hospital), Ambattur, Chennai - 600053, Tamil Nadu, India",
+        "contact_person": "David",
+        "mobile": "9042359986",
+        "gstin": "33AAECN4059M1Z8"
+    },
+    {
+        "name": "JOY WORKS EXECUTIVE CENTRE PVT LTD",
+        "address": "2nd Floor, Core 1, Pacifica Tech Park, Rajiv Gandhi Salai, Navalur, Chennai, Tamil Nadu 600130, India",
+        "contact_person": "Subramaniyan",
+        "mobile": "+91-8825839860",
+        "gstin": "33AAFCJ9593H1Z5"
+    }
+]

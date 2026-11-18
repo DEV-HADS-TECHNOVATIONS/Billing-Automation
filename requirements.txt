@@ -1,0 +1,8 @@
+pandas
+openpyxl
+python-dateutil
+xlrd
+reportlab
+num2words
+python-dotenv
+pytest

@@ -1,0 +1,101 @@
+2026-10-07 13:07:05,168 - INFO - Starting run for HADS Consumption Report - JUN'26 (1).xlsx using worksheet Sheet1
+2026-10-07 13:07:05,177 - INFO - AWS account numbers found: 5
+2026-10-07 13:07:05,389 - INFO - Validated 313 rows in Rodeo Digital - July'26.xlsx
+2026-10-07 13:07:05,389 - INFO - Skipped account 130677210002 because active=false
+2026-10-07 13:07:05,457 - INFO - Validated 68 rows in Astravue - July'26.xlsx
+2026-10-07 13:07:05,457 - INFO - Skipped account 370672722020 because active=false
+2026-10-07 13:07:05,457 - INFO - Skipped account 7777689288 because active=false
+2026-10-07 13:07:05,483 - INFO - Detected Excel columns: ['PayerAccountId', 'LinkedAccountId', 'RecordType', 'RecordID', 'BillingPeriodStartDate', 'BillingPeriodEndDate', 'InvoiceDate', 'PayerAccountName', 'LinkedAccountName', 'TaxationAddress', 'PayerPONumber', 'ProductCode', 'ProductName', 'SellerOfRecord', 'UsageType', 'Operation', 'RateId', 'ItemDescription', 'UsageStartDate', 'UsageEndDate', 'UsageQuantity', 'BlendedRate', 'CurrencyCode', 'Actual Cost', 'Credits']
+2026-10-07 13:07:05,484 - INFO - Resolved invoice column mapping:
+Product -> ProductName
+Usage Type -> UsageType
+Item Description -> ItemDescription
+Usage Quantity -> UsageQuantity
+Actual Cost -> Actual Cost
+Linked Account Id -> LinkedAccountId
+Billing Period Start -> BillingPeriodStartDate
+Billing Period End -> BillingPeriodEndDate
+2026-10-07 13:07:05,946 - INFO - Created Astravue - July'26_invoice.pdf for account 360435284230 (ASTRAVUE TECHNOLOGIES PVT LTD) with invoice INV44-0710-CY26
+2026-10-07 13:07:06,040 - INFO - Detected Excel columns: ['PayerAccountId', 'LinkedAccountId', 'RecordType', 'RecordID', 'BillingPeriodStartDate', 'BillingPeriodEndDate', 'InvoiceDate', 'PayerAccountName', 'LinkedAccountName', 'TaxationAddress', 'PayerPONumber', 'ProductCode', 'ProductName', 'SellerOfRecord', 'UsageType', 'Operation', 'RateId', 'ItemDescription', 'UsageStartDate', 'UsageEndDate', 'UsageQuantity', 'BlendedRate', 'CurrencyCode', 'Actual Cost', 'Credits']
+2026-10-07 13:07:06,041 - INFO - Resolved invoice column mapping:
+Product -> ProductName
+Usage Type -> UsageType
+Item Description -> ItemDescription
+Usage Quantity -> UsageQuantity
+Actual Cost -> Actual Cost
+Linked Account Id -> LinkedAccountId
+Billing Period Start -> BillingPeriodStartDate
+Billing Period End -> BillingPeriodEndDate
+2026-10-07 13:07:06,826 - INFO - Created Rodeo Digital - July'26_invoice.pdf for account 115690512010 (RODEO DIGITAL) with invoice INV45-0710-CY26
+2026-10-07 13:07:06,827 - INFO - Run completed: 2 Excel files, 2 PDFs, 3 skipped clients
+2026-10-07 13:08:45,539 - INFO - Starting run for HADS Consumption Report - JUN'26 (1).xlsx using worksheet Sheet1
+2026-10-07 13:08:45,545 - INFO - AWS account numbers found: 5
+2026-10-07 13:08:45,745 - INFO - Validated 313 rows in Rodeo Digital - July'26.xlsx
+2026-10-07 13:08:45,745 - INFO - Skipped account 130677210002 because active=false
+2026-10-07 13:08:45,746 - INFO - Skipped account 360435284230 because active=false
+2026-10-07 13:08:45,872 - INFO - Validated 178 rows in Astravue - July'26.xlsx
+2026-10-07 13:08:45,872 - INFO - Skipped account 7777689288 because active=false
+2026-10-07 13:08:45,928 - INFO - Detected Excel columns: ['PayerAccountId', 'LinkedAccountId', 'RecordType', 'RecordID', 'BillingPeriodStartDate', 'BillingPeriodEndDate', 'InvoiceDate', 'PayerAccountName', 'LinkedAccountName', 'TaxationAddress', 'PayerPONumber', 'ProductCode', 'ProductName', 'SellerOfRecord', 'UsageType', 'Operation', 'RateId', 'ItemDescription', 'UsageStartDate', 'UsageEndDate', 'UsageQuantity', 'BlendedRate', 'CurrencyCode', 'Actual Cost', 'Credits']
+2026-10-07 13:08:45,929 - INFO - Resolved invoice column mapping:
+Product -> ProductName
+Usage Type -> UsageType
+Item Description -> ItemDescription
+Usage Quantity -> UsageQuantity
+Actual Cost -> Actual Cost
+Linked Account Id -> LinkedAccountId
+Billing Period Start -> BillingPeriodStartDate
+Billing Period End -> BillingPeriodEndDate
+2026-10-07 13:08:46,479 - INFO - Created Astravue - July'26_invoice.pdf for account 370672722020 (ASTRAVUE TECHNOLOGIES PVT LTD) with invoice INV46-0710-CY26
+2026-10-07 13:08:46,590 - INFO - Detected Excel columns: ['PayerAccountId', 'LinkedAccountId', 'RecordType', 'RecordID', 'BillingPeriodStartDate', 'BillingPeriodEndDate', 'InvoiceDate', 'PayerAccountName', 'LinkedAccountName', 'TaxationAddress', 'PayerPONumber', 'ProductCode', 'ProductName', 'SellerOfRecord', 'UsageType', 'Operation', 'RateId', 'ItemDescription', 'UsageStartDate', 'UsageEndDate', 'UsageQuantity', 'BlendedRate', 'CurrencyCode', 'Actual Cost', 'Credits']
+2026-10-07 13:08:46,590 - INFO - Resolved invoice column mapping:
+Product -> ProductName
+Usage Type -> UsageType
+Item Description -> ItemDescription
+Usage Quantity -> UsageQuantity
+Actual Cost -> Actual Cost
+Linked Account Id -> LinkedAccountId
+Billing Period Start -> BillingPeriodStartDate
+Billing Period End -> BillingPeriodEndDate
+2026-10-07 13:08:47,371 - INFO - Created Rodeo Digital - July'26_invoice.pdf for account 115690512010 (RODEO DIGITAL) with invoice INV47-0710-CY26
+2026-10-07 13:08:47,372 - INFO - Run completed: 2 Excel files, 2 PDFs, 3 skipped clients
+2026-10-07 13:09:24,374 - INFO - Starting run for HADS Consumption Report - JUN'26 (1).xlsx using worksheet Sheet1
+2026-10-07 13:09:24,379 - INFO - AWS account numbers found: 5
+2026-10-07 13:09:24,590 - INFO - Validated 313 rows in Rodeo Digital - July'26.xlsx
+2026-10-07 13:09:24,710 - INFO - Validated 184 rows in HADS - July'26.xlsx
+2026-10-07 13:09:24,710 - INFO - Skipped account 360435284230 because active=false
+2026-10-07 13:09:24,835 - INFO - Validated 178 rows in Astravue - July'26.xlsx
+2026-10-07 13:09:24,836 - INFO - Skipped account 7777689288 because active=false
+2026-10-07 13:09:24,888 - INFO - Detected Excel columns: ['PayerAccountId', 'LinkedAccountId', 'RecordType', 'RecordID', 'BillingPeriodStartDate', 'BillingPeriodEndDate', 'InvoiceDate', 'PayerAccountName', 'LinkedAccountName', 'TaxationAddress', 'PayerPONumber', 'ProductCode', 'ProductName', 'SellerOfRecord', 'UsageType', 'Operation', 'RateId', 'ItemDescription', 'UsageStartDate', 'UsageEndDate', 'UsageQuantity', 'BlendedRate', 'CurrencyCode', 'Actual Cost', 'Credits']
+2026-10-07 13:09:24,889 - INFO - Resolved invoice column mapping:
+Product -> ProductName
+Usage Type -> UsageType
+Item Description -> ItemDescription
+Usage Quantity -> UsageQuantity
+Actual Cost -> Actual Cost
+Linked Account Id -> LinkedAccountId
+Billing Period Start -> BillingPeriodStartDate
+Billing Period End -> BillingPeriodEndDate
+2026-10-07 13:09:25,481 - INFO - Created Astravue - July'26_invoice.pdf for account 370672722020 (ASTRAVUE TECHNOLOGIES PVT LTD) with invoice INV48-0710-CY26
+2026-10-07 13:09:25,544 - INFO - Detected Excel columns: ['PayerAccountId', 'LinkedAccountId', 'RecordType', 'RecordID', 'BillingPeriodStartDate', 'BillingPeriodEndDate', 'InvoiceDate', 'PayerAccountName', 'LinkedAccountName', 'TaxationAddress', 'PayerPONumber', 'ProductCode', 'ProductName', 'SellerOfRecord', 'UsageType', 'Operation', 'RateId', 'ItemDescription', 'UsageStartDate', 'UsageEndDate', 'UsageQuantity', 'BlendedRate', 'CurrencyCode', 'Actual Cost', 'Credits']
+2026-10-07 13:09:25,545 - INFO - Resolved invoice column mapping:
+Product -> ProductName
+Usage Type -> UsageType
+Item Description -> ItemDescription
+Usage Quantity -> UsageQuantity
+Actual Cost -> Actual Cost
+Linked Account Id -> LinkedAccountId
+Billing Period Start -> BillingPeriodStartDate
+Billing Period End -> BillingPeriodEndDate
+2026-10-07 13:09:26,210 - INFO - Created HADS - July'26_invoice.pdf for account 130677210002 (HADS TECHNOVATIONS LLP) with invoice INV49-0710-CY26
+2026-10-07 13:09:26,307 - INFO - Detected Excel columns: ['PayerAccountId', 'LinkedAccountId', 'RecordType', 'RecordID', 'BillingPeriodStartDate', 'BillingPeriodEndDate', 'InvoiceDate', 'PayerAccountName', 'LinkedAccountName', 'TaxationAddress', 'PayerPONumber', 'ProductCode', 'ProductName', 'SellerOfRecord', 'UsageType', 'Operation', 'RateId', 'ItemDescription', 'UsageStartDate', 'UsageEndDate', 'UsageQuantity', 'BlendedRate', 'CurrencyCode', 'Actual Cost', 'Credits']
+2026-10-07 13:09:26,308 - INFO - Resolved invoice column mapping:
+Product -> ProductName
+Usage Type -> UsageType
+Item Description -> ItemDescription
+Usage Quantity -> UsageQuantity
+Actual Cost -> Actual Cost
+Linked Account Id -> LinkedAccountId
+Billing Period Start -> BillingPeriodStartDate
+Billing Period End -> BillingPeriodEndDate
+2026-10-07 13:09:27,141 - INFO - Created Rodeo Digital - July'26_invoice.pdf for account 115690512010 (RODEO DIGITAL) with invoice INV50-0710-CY26
+2026-10-07 13:09:27,142 - INFO - Run completed: 3 Excel files, 3 PDFs, 2 skipped clients

@@ -2,26 +2,36 @@
   "115690512010": {
     "legal_name": "RODEO DIGITAL",
     "display_name": "Rodeo Digital",
-    "active": true
+    "active": false,
+    "aws_credential_profile": "RODEO",
+    "aws_billing_mode": "direct"
   },
   "130677210002": {
     "legal_name": "HADS TECHNOVATIONS LLP",
     "display_name": "HADS",
-    "active": false
+    "active": true,
+    "aws_credential_profile": "HADS",
+    "aws_billing_mode": "direct"
   },
   "360435284230": {
     "legal_name": "ASTRAVUE TECHNOLOGIES PVT LTD",
     "display_name": "Astravue Bedrock",
-    "active": false
+    "active": false,
+    "aws_credential_profile": "ASTRAVUE_BEDROCK",
+    "aws_billing_mode": "direct"
   },
   "370672722020": {
     "legal_name": "ASTRAVUE TECHNOLOGIES PVT LTD",
     "display_name": "Astravue",
-    "active": true
+    "active": false,
+    "aws_credential_profile": "ASTRAVUE",
+    "aws_billing_mode": "direct"
   },
   "7777689288": {
     "legal_name": "NISSI Engineering Solution Pvt. Ltd.",
     "display_name": "NSSI Engineering Solutions PVT LTD",
-    "active": false
+    "active": false,
+    "aws_credential_profile": "NISSI",
+    "aws_billing_mode": "direct"
   }
 }

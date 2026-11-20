@@ -6,3 +6,4 @@ reportlab
 num2words
 python-dotenv
 pytest
+boto3

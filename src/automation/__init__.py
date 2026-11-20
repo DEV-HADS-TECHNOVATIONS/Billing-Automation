@@ -1,0 +1,1 @@
+"""Testing-phase automation helpers for the AWS Invoice Generator."""
